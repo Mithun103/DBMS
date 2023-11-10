@@ -1,12 +1,10 @@
-# EXP NO 1: ER DIAGRAM CREATION, RELATIONAL MODEL AND SCHEMA GENERATION 
-
-### DATE : 
+# EXP NO 1: ER DIAGRAM CREATION, RELATIONAL MODEL AND SCHEMA GENERATION  
+### DATE : 9/08/23
 
 ## AIM:
 <div align="justify">
    To create a ER Diagram for Bank management system or College management system using ERD Plus tool and generate the relational model with schema. 
 </div>
-
 
 ## Algorithm
 1. Create a login with https://erdplus.com.
@@ -14,8 +12,6 @@
 3. Create a strong entity, relation and attributes.
 4. Create a weak entity, relation and attributes.
 5. Specify attributes unique, multivalued and composite attributes.
-
-
 
 ### ER Diagram 
 

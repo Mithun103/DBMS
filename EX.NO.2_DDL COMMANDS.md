@@ -1,5 +1,6 @@
 # EXP NO 2: DATA DEFINITION LANGUGE COMMANDS 
-### DATE : 16/08/2023
+### DATE : 16/08/23
+
 ## AIM:
 To create a student database and execute DDL queries using SQL.
 
@@ -19,6 +20,7 @@ To create a student database and execute DDL queries using SQL.
 3. ALTER: This is used to alter the structure of the database.
 4. TRUNCATE: This is used to remove all records from a table, including all spaces allocated for the records are removed.
 5. RENAME: This is used to rename an object existing in the database.
+
 
 ## Query:
 ### 1) Create a database studentdb
@@ -84,5 +86,10 @@ rename table student to mystudent;
 ### OUTPUT:
 ![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/f798b751-c946-4215-83de-d22ebf9c9d73)
 
+
 ## Result:
-         Thus the basic DDL commands in SQL are executed. 
+<div align="justify">
+       Thus the basic DDL commands in SQL are executed.
+</div>
+
+

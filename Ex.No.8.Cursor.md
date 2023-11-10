@@ -1,4 +1,4 @@
-# EXP NO 8: PL/SQL program using Cursor 
+# EXP NO 9: PL/SQL program using Cursor 
 ### DATE: 4/10/23
 
 ### AIM: 
